@@ -85,6 +85,12 @@ export const uniModals: Model[] = [
         name: 'Gemini EXP 1121',
         provider: 'google',
         type: 'universal'
+    },
+    {
+        id: 'gemini-exp-1206',
+        name: 'Gemini EXP 1206',
+        provider: 'google',
+        type: 'universal'
     }
 ]
 
