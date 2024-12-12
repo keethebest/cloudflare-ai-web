@@ -81,8 +81,8 @@ export const uniModals: Model[] = [
         type: 'universal'
     },
     {
-        id: 'gemini-exp-1121',
-        name: 'Gemini EXP 1121',
+        id: 'gemini-2.0-flash-exp',
+        name: 'Gemini 2.0 FLASH',
         provider: 'google',
         type: 'universal'
     },
